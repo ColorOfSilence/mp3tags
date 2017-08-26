@@ -1,0 +1,12 @@
+#Ignore everything at first
+*
+
+#But do not ignore these files
+!.gitignore
+!*.md
+!src
+!src/
+!src/**
+!Class File 
+!Class File/
+!Class File/**
